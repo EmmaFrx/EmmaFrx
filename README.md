@@ -9,7 +9,7 @@
 <br>
     ✯  ✯  ✯  ✯  ✯  ✯  ✯  ✯  ✯  ✯  ✯  ✯ 
 </p>
-<br> 
+<br>
 <h2> Who i am ?</h2>
 
 <p align = "center">
