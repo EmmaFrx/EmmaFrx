@@ -35,5 +35,5 @@ I know :
 
 <details>
   <summary>More...</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmaaaaaaaaaaaaaaaaaaaaaaa)](https://github.com/anuraghazra/github-readme-stats)
+  ![Emmaaaaaaaaaaaaaaaaaaaaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmaaaaaaaaaaaaaaaaaaaaaaa)
 </details>
