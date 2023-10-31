@@ -1,5 +1,5 @@
 <p align = "center">
-    ![](img/seabanner.jpg)
+    <img src = img/seabanner.jpg />
 </p>
 
 <h1>Hello, I'm Emma !</h1>
