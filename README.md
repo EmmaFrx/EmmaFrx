@@ -1,4 +1,6 @@
-![](img/seabanner.jpg)
+<p align = "center">
+    ![](img/seabanner.jpg)
+</p>
 
 <h1>Hello, I'm Emma !</h1>
 <span style = "color: gray;">but you can call me Em's :)</span>
