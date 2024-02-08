@@ -3,6 +3,7 @@
 </p>
 
 <h1>Hello, I'm Emma !</h1>
+<br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Limsel) <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/macaremmaa)
 <h2> Who i am ?</h2>
